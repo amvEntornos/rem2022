@@ -1,2 +1,4 @@
 encab1
 línea1
+lista1
+lista2

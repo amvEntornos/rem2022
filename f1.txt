@@ -2,5 +2,3 @@ encab1
 línea1
 lista1
 lista2
-imagen1
-imagen2

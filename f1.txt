@@ -2,3 +2,5 @@ encab1
 línea1
 lista1
 lista2
+sección A
+carrusel 1

@@ -4,3 +4,4 @@ lista1
 lista2
 sección A
 carrusel 1
+noticias
